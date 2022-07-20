@@ -10,11 +10,15 @@
 журналах перечня ВАК, [1](https://www.scopus.com/authid/detail.url?authorId=57205470240) публикация Scopus, [1](https://www.researcherid.com/rid/M-5364-2014) публикация Web of Science. Индекс цитируемости РИНЦ [375](https://elibrary.ru/author_profile.asp?authorid=220682), индекс Хирша [13](https://elibrary.ru/author_profile.asp?authorid=220682).
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=AspirantDrago&show_icons=true&theme=radical&locale=ru&include_all_commits=true&count_private=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=AspirantDrago&show_icons=true&theme=dark&locale=ru&include_all_commits=true&count_private=true)
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AspirantDrago&theme=tokyonight_duo&hide_border=true&date_format=j%20M%5B%20Y%5D&locale=ru)](https://git.io/streak-stats)
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=AspirantDrago&theme=onedark)
 
 ### Стек технологий
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AspirantDrago&layout=compact&theme=dark&locale=ru&custom_title=Наиболее%20используемые%20языки)](https://github.com/AspirantDrago/github-readme-stats)
 
 ![Python](https://img.shields.io/badge/-Python-color&?style=for-the-badge&color=informational&logo=Python&logoColor=white)
 ![Numpy](https://img.shields.io/badge/-Numpy-color&?style=for-the-badge&color=informational&logo=Numpy)
@@ -44,6 +48,8 @@
 ![REST API](https://img.shields.io/badge/-REST%20API-color&?style=for-the-badge&color=informational&logo=REST%20API)
 ![HTML5](https://img.shields.io/badge/-HTML%205-color&?style=for-the-badge&color=informational&logo=HTML5&logoColor=white)
 ![CCS3](https://img.shields.io/badge/-CSS%203-color&?style=for-the-badge&color=informational&logo=CSS3)
+![SASS](https://img.shields.io/badge/-SASS/SCSS-color&?style=for-the-badge&color=informational&logo=SASS&logoColor=white)
+![LESS](https://img.shields.io/badge/-LESS-color&?style=for-the-badge&color=informational&logo=LESS)
 ![Dart](https://img.shields.io/badge/-Dart-color&?style=for-the-badge&color=informational&logo=Dart)
 ![Flutter](https://img.shields.io/badge/-Flutter-color&?style=for-the-badge&color=informational&logo=Flutter)
 
@@ -60,6 +66,16 @@
 ![jQuery](https://img.shields.io/badge/-jQuery-color&?style=for-the-badge&color=informational&logo=jQuery)
 ![Vue.js 3](https://img.shields.io/badge/-Vue.js%203-color&?style=for-the-badge&color=informational&logo=Vue.js&logoColor=white)
 ![Google Apps Script](https://img.shields.io/badge/-Google%20Apps%20Script-color&?style=for-the-badge&color=informational&logo=Google%20Drive&logoColor=white)
+
+### Социальные сети
+
+[![e-mail](https://img.shields.io/badge/-email-color&?style=for-the-badge&color=informational&logo=LinkedIn)](mailto:sanekclubstr@mail.ru)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-color&?style=for-the-badge&color=0077b5&logo=LinkedIn)](https://vk.com/away.php?utf=1&to=http%3A%2F%2Fwww.linkedin.com%2Fin%2Fivanov-aspirant)
+[![VK](https://img.shields.io/badge/-VK-color&?style=for-the-badge&color=45668e&logo=VK)](https://vk.com/xumukutyt)
+[![Facebook](https://img.shields.io/badge/-Facebook-color&?style=for-the-badge&color=3b5998&logo=Facebook&logoColor=white)](https://facebook.com/774199469455615)
+[![Instagram](https://img.shields.io/badge/-Instagram-color&?style=for-the-badge&color=E1306C&logo=Instagram&logoColor=white)](https://facebook.com/774199469455615)
+
+
 
 ### Образование
 
