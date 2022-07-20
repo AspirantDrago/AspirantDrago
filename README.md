@@ -70,10 +70,10 @@
 ### Социальные сети
 
 [![e-mail](https://img.shields.io/badge/-email-color&?style=for-the-badge&color=informational&logo=LinkedIn)](mailto:sanekclubstr@mail.ru)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-color&?style=for-the-badge&color=0077b5&logo=LinkedIn)](https://vk.com/away.php?utf=1&to=http%3A%2F%2Fwww.linkedin.com%2Fin%2Fivanov-aspirant)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-color&?style=for-the-badge&color=0077b5&logo=LinkedIn)](https://www.linkedin.com/in/ivanov-aspirant)
 [![VK](https://img.shields.io/badge/-VK-color&?style=for-the-badge&color=45668e&logo=VK)](https://vk.com/xumukutyt)
-[![Facebook](https://img.shields.io/badge/-Facebook-color&?style=for-the-badge&color=3b5998&logo=Facebook&logoColor=white)](https://facebook.com/774199469455615)
-[![Instagram](https://img.shields.io/badge/-Instagram-color&?style=for-the-badge&color=E1306C&logo=Instagram&logoColor=white)](https://facebook.com/774199469455615)
+[![Facebook](https://img.shields.io/badge/-Facebook-color&?style=for-the-badge&color=3b5998&logo=Facebook&logoColor=white)](https://facebook.com/sanekclubstr)
+[![Instagram](https://img.shields.io/badge/-Instagram-color&?style=for-the-badge&color=E1306C&logo=Instagram&logoColor=white)](https://instagram.com/aspirantdrago/)
 
 
 
