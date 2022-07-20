@@ -9,6 +9,16 @@
 Автор порядка [100](https://elibrary.ru/author_items.asp?authorid=220682&show_option=1&show_refs=1) научных публикаций, в том числе [21](https://elibrary.ru/author_items.asp?authorid=220682&pubrole=100&show_refs=1&show_option=5) работа в
 журналах перечня ВАК, [1](https://www.scopus.com/authid/detail.url?authorId=57205470240) публикация Scopus, [1](https://www.researcherid.com/rid/M-5364-2014) публикация Web of Science. Индекс цитируемости РИНЦ [375](https://elibrary.ru/author_profile.asp?authorid=220682), индекс Хирша [13](https://elibrary.ru/author_profile.asp?authorid=220682).
 
+
+<p style="text-align: center;">
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=AspirantDrago&show_icons=true&theme=radical&locale=ru&include_all_commits=true&count_private=true)
+
+</p>
+<p style="text-align: center;">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=AspirantDrago&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+</P
 ### Стек технологий
 
 ![Python](https://img.shields.io/badge/-Python-color&?style=for-the-badge&color=informational&logo=Python&logoColor=white)
@@ -32,7 +42,7 @@
 ![Pascal](https://img.shields.io/badge/-Pascal-color&?style=for-the-badge&color=informational&logo=Pascal)
 ![Basic](https://img.shields.io/badge/-Basic-color&?style=for-the-badge&color=informational&logo=Basic)
 ![.NET](https://img.shields.io/badge/-.NET-color&?style=for-the-badge&color=informational&logo=.NET)
-![Java](https://img.shields.io/badge/-Java-color&?style=for-the-badge&color=informational&logo=Java)
+![Java](https://img.shields.io/badge/-Java-color&?style=for-the-badge&color=informational&logo=?logo=Java)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-color&?style=for-the-badge&color=informational&logo=Kotlin&logoColor=white)
 ![Ruby](https://img.shields.io/badge/-Ruby-color&?style=for-the-badge&color=informational&logo=Ruby)
 ![Go](https://img.shields.io/badge/-Ruby-color&?style=for-the-badge&color=informational&logo=Go&logoColor=white)
@@ -41,7 +51,6 @@
 ![CCS3](https://img.shields.io/badge/-CSS%203-color&?style=for-the-badge&color=informational&logo=CSS3)
 ![Dart](https://img.shields.io/badge/-Dart-color&?style=for-the-badge&color=informational&logo=Dart)
 ![Flutter](https://img.shields.io/badge/-Flutter-color&?style=for-the-badge&color=informational&logo=Flutter)
-
 
 ![SQL](https://img.shields.io/badge/-SQL-color&?style=for-the-badge&color=informational&logo=SQL)
 ![Transact-SQL](https://img.shields.io/badge/-Transact&#8211;SQL-color&?style=for-the-badge&color=informational&logo=Transact-SQL)
