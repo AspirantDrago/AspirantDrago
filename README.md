@@ -17,8 +17,9 @@
 </p>
 <p style="text-align: center;">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=AspirantDrago&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-</P
+![trophy](https://github-profile-trophy.vercel.app/?username=AspirantDrago&theme=onedark)
+
+</p>
 ### Стек технологий
 
 ![Python](https://img.shields.io/badge/-Python-color&?style=for-the-badge&color=informational&logo=Python&logoColor=white)
