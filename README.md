@@ -10,11 +10,11 @@
 журналах перечня ВАК, [1](https://www.scopus.com/authid/detail.url?authorId=57205470240) публикация Scopus, [1](https://www.researcherid.com/rid/M-5364-2014) публикация Web of Science. Индекс цитируемости РИНЦ [375](https://elibrary.ru/author_profile.asp?authorid=220682), индекс Хирша [13](https://elibrary.ru/author_profile.asp?authorid=220682).
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=AspirantDrago&show_icons=true&theme=dark&locale=ru&include_all_commits=true&count_private=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=AspirantDrago&show_icons=true&theme=dark&locale=ru&include_all_commits=true&count_private=true&hide=prs,issues,contribs)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AspirantDrago&theme=tokyonight_duo&hide_border=true&date_format=j%20M%5B%20Y%5D&locale=ru)](https://git.io/streak-stats)
 
-![trophy](https://github-profile-trophy.vercel.app/?username=AspirantDrago&theme=onedark)
+![trophy](https://github-profile-trophy.vercel.app/?username=AspirantDrago&theme=darkhub&title=Stars,Commit,Followers,Repositories,MultiLanguage)
 
 ### Стек технологий
 
