@@ -6,8 +6,8 @@
 
 Победитель и лауреат конкурсов по искусственному интеллекту, хакатонов и олимпиад по спортивному программированию.
 
-Автор порядка [100](https://elibrary.ru/author_items.asp?authorid=220682&show_option=1&show_refs=1) научных публикаций, в том числе [21](https://elibrary.ru/author_items.asp?authorid=220682&pubrole=100&show_refs=1&show_option=5) работа в
-журналах перечня ВАК, [1](https://www.scopus.com/authid/detail.url?authorId=57205470240) публикация Scopus, [1](https://www.researcherid.com/rid/M-5364-2014) публикация Web of Science. Индекс цитируемости РИНЦ [375](https://elibrary.ru/author_profile.asp?authorid=220682), индекс Хирша [13](https://elibrary.ru/author_profile.asp?authorid=220682).
+Автор порядка [100](https://elibrary.ru/author_items.asp?authorid=220682&show_option=1&show_refs=1) научных публикаций, в том числе [22](https://elibrary.ru/author_items.asp?authorid=220682&pubrole=100&show_refs=1&show_option=5) работы в
+журналах перечня ВАК, [1](https://www.scopus.com/authid/detail.url?authorId=57205470240) публикация Scopus, [1](https://www.researcherid.com/rid/M-5364-2014) публикация Web of Science. Индекс цитируемости РИНЦ [494](https://elibrary.ru/author_profile.asp?authorid=220682), индекс Хирша [13](https://elibrary.ru/author_profile.asp?authorid=220682).
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AspirantDrago&show_icons=true&theme=dark&locale=ru&include_all_commits=true&count_private=true&hide=prs,issues,contribs)
@@ -106,7 +106,7 @@
 * Преподаватель программирования
 *Яндекс.Лицей, Толтек СФ БашГУ, МАУ ДО ИМЦ г. Стерлитамак, ВПИ, ВФ ВолГУ* (2013-наст.вр.)
 Дисциплины и курсы:
-    * *Школьники*: программирование, в т.ч. спортивное (Python, C++, Pascal), информатика, WEB-разработка (Python: Jango, Flask; PHP, JS, jQuery, Bootstrap), 3D-моделирование (Компас 3D), машинное обучение OpenCV, курсы олимпиадной подготовки, подготовки к ЕГЭ/ОГЭ;
+    * *Школьники*: программирование, в т.ч. спортивное (Python, C++, Pascal), информатика, WEB-разработка (Python: Django, Flask; PHP, JS, jQuery, Bootstrap), 3D-моделирование (Компас 3D), машинное обучение OpenCV, курсы олимпиадной подготовки, подготовки к ЕГЭ/ОГЭ;
     * *Колледж*: системное программирование, разработка программных модулей (Git, GitHub), разработка мобильных приложений (Kotlin), технологии разработки программного обеспечения (Selenium), технология разработки и защиты баз данных;
     * *Высшая школа*: операционные системы (PowerShell, Linux, Bash, Docker), базы данных (Transact-SQL), ООП (C#), имитационное моделирование (AnyLogic), теория алгоритмов, практикум на ЭВМ, Защита информации.
 <br />Курсы для школьников 8-11-ых классов по изучению программирования на языке Python, а также стеку технологий WEB-разработки:
@@ -124,3 +124,9 @@
 * Интенсивное программирование: продвинутые алгоритмы
 * Решение прикладных задач на языке Python
 * HCIA R&S. «Комплексный курс подготовки специалиста Huawei по технологиям и оборудованию передачи данных. Базовый уровень
+* Информационно-коммуникационные технологии в преподавании естественнонаучных дисциплин
+* Применение систем компьютерной алгебры в образовании и научной деятельности
+* Базовые операции с данными на языке Python
+* Методы машинного обучения: базовый уровень
+* Методы машинного обучения: продвинутый уровень
+* Основы обработки таблиц с данными на языке Python
