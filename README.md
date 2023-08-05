@@ -4,7 +4,7 @@
 
 ### Сведения обо мне
 
-Победитель и лауреат конкурсов по искусственному интеллекту, хакатонов и олимпиад по спортивному программированию.
+![](https://raw.githubusercontent.com/AspirantDrago/cf-stats/main/output/light_card.svg#gh-dark-mode-only)
 
 Автор порядка [100](https://elibrary.ru/author_items.asp?authorid=220682&show_option=1&show_refs=1) научных публикаций, в том числе [22](https://elibrary.ru/author_items.asp?authorid=220682&pubrole=100&show_refs=1&show_option=5) работы в
 журналах перечня ВАК, [1](https://www.scopus.com/authid/detail.url?authorId=57205470240) публикация Scopus, [1](https://www.researcherid.com/rid/M-5364-2014) публикация Web of Science. Индекс цитируемости РИНЦ [494](https://elibrary.ru/author_profile.asp?authorid=220682), индекс Хирша [13](https://elibrary.ru/author_profile.asp?authorid=220682).
@@ -33,18 +33,12 @@
 ![Beautiful Soup](https://img.shields.io/badge/-Beautiful%20Soup-color&?style=for-the-badge&color=informational&logo=Beautiful%20Soup)
 
 ![C++](https://img.shields.io/badge/-C%2B%2B-color&?style=for-the-badge&color=informational&logo=C%2B%2B)
-![PHP](https://img.shields.io/badge/-PHP-color&?style=for-the-badge&color=informational&logo=PHP&logoColor=white)
 ![C#](https://img.shields.io/badge/-C%23-color&?style=for-the-badge&color=informational&logo=C%20Sharp)
 ![ActionScript](https://img.shields.io/badge/-ActionScript-color&?style=for-the-badge&color=informational&logo=ActionScript)
 ![Flash](https://img.shields.io/badge/-Flash-color&?style=for-the-badge&color=informational&logo=Flash)
-![Delphi XE](https://img.shields.io/badge/-Delphi%20XE-color&?style=for-the-badge&color=informational&logo=Delphi)
-![Pascal](https://img.shields.io/badge/-Pascal-color&?style=for-the-badge&color=informational&logo=Pascal)
-![Basic](https://img.shields.io/badge/-Basic-color&?style=for-the-badge&color=informational&logo=Basic)
 ![.NET](https://img.shields.io/badge/-.NET-color&?style=for-the-badge&color=informational&logo=.NET)
 ![Java](https://img.shields.io/badge/-Java-color&?style=for-the-badge&color=informational&logo=?logo=Java)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-color&?style=for-the-badge&color=informational&logo=Kotlin&logoColor=white)
-![Ruby](https://img.shields.io/badge/-Ruby-color&?style=for-the-badge&color=informational&logo=Ruby)
-![Go](https://img.shields.io/badge/-Ruby-color&?style=for-the-badge&color=informational&logo=Go&logoColor=white)
 ![REST API](https://img.shields.io/badge/-REST%20API-color&?style=for-the-badge&color=informational&logo=REST%20API)
 ![HTML5](https://img.shields.io/badge/-HTML%205-color&?style=for-the-badge&color=informational&logo=HTML5&logoColor=white)
 ![CCS3](https://img.shields.io/badge/-CSS%203-color&?style=for-the-badge&color=informational&logo=CSS3)
@@ -62,8 +56,6 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-color&?style=for-the-badge&color=informational&logo=MongoDB&logoColor=white)
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-color&?style=for-the-badge&color=informational&logo=JavaScript&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-color&?style=for-the-badge&color=informational&logo=TypeScript&logoColor=white)
-![jQuery](https://img.shields.io/badge/-jQuery-color&?style=for-the-badge&color=informational&logo=jQuery)
 ![Vue.js 3](https://img.shields.io/badge/-Vue.js%203-color&?style=for-the-badge&color=informational&logo=Vue.js&logoColor=white)
 ![Google Apps Script](https://img.shields.io/badge/-Google%20Apps%20Script-color&?style=for-the-badge&color=informational&logo=Google%20Drive&logoColor=white)
 
