@@ -46,7 +46,7 @@
 ![Kotlin](https://img.shields.io/badge/-Kotlin-color&?style=for-the-badge&color=informational&logo=Kotlin&logoColor=white)
 ![REST API](https://img.shields.io/badge/-REST%20API-color&?style=for-the-badge&color=informational&logo=REST%20API)
 ![HTML5](https://img.shields.io/badge/-HTML%205-color&?style=for-the-badge&color=informational&logo=HTML5&logoColor=white)
-![CCS3](https://img.shields.io/badge/-CSS%203-color&?style=for-the-badge&color=informational&logo=CSS3)
+![CSS3](https://img.shields.io/badge/-CSS%203-color&?style=for-the-badge&color=informational&logo=CSS3)
 ![SASS](https://img.shields.io/badge/-SASS/SCSS-color&?style=for-the-badge&color=informational&logo=SASS&logoColor=white)
 ![LESS](https://img.shields.io/badge/-LESS-color&?style=for-the-badge&color=informational&logo=LESS)
 ![Dart](https://img.shields.io/badge/-Dart-color&?style=for-the-badge&color=informational&logo=Dart)
