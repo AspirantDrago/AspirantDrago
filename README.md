@@ -13,10 +13,7 @@
 
 ### Статистика
 
-
 ![](https://raw.githubusercontent.com/AspirantDrago/cf-stats/main/output/light_card.svg)
-
-
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AspirantDrago&show_icons=true&theme=dark&locale=ru&include_all_commits=true&count_private=true&hide=prs,issues,contribs)
 
