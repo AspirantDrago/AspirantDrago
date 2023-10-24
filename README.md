@@ -2,13 +2,17 @@
 
 # Александр Иванов
 
-### Сведения обо мне
+### Контакты
+
+[![e-mail](https://img.shields.io/badge/-email-color&?style=for-the-badge&color=informational&logo=email)](mailto:sanekclubstr@mail.ru)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-color&?style=for-the-badge&color=0077b5&logo=LinkedIn)](https://www.linkedin.com/in/ivanov-aspirant)
+[![VK](https://img.shields.io/badge/-VK-color&?style=for-the-badge&color=45668e&logo=VK)](https://vk.com/xumukutyt)
+[![codeforces](https://img.shields.io/badge/-codeforces-color&?style=for-the-badge&color=0077b5)](https://codeforces.com/profile/Aspirant)
+[![Facebook](https://img.shields.io/badge/-Facebook-color&?style=for-the-badge&color=3b5998&logo=Facebook&logoColor=white)](https://facebook.com/sanekclubstr)
+[![Instagram](https://img.shields.io/badge/-Instagram-color&?style=for-the-badge&color=E1306C&logo=Instagram&logoColor=white)](https://instagram.com/aspirantdrago/)
+
 
 ![](https://raw.githubusercontent.com/AspirantDrago/cf-stats/main/output/light_card.svg#gh-dark-mode-only)
-
-Автор порядка [100](https://elibrary.ru/author_items.asp?authorid=220682&show_option=1&show_refs=1) научных публикаций, в том числе [22](https://elibrary.ru/author_items.asp?authorid=220682&pubrole=100&show_refs=1&show_option=5) работы в
-журналах перечня ВАК, [1](https://www.scopus.com/authid/detail.url?authorId=57205470240) публикация Scopus, [1](https://www.researcherid.com/rid/M-5364-2014) публикация Web of Science. Индекс цитируемости РИНЦ [494](https://elibrary.ru/author_profile.asp?authorid=220682), индекс Хирша [13](https://elibrary.ru/author_profile.asp?authorid=220682).
-
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AspirantDrago&show_icons=true&theme=dark&locale=ru&include_all_commits=true&count_private=true&hide=prs,issues,contribs)
 
@@ -59,32 +63,23 @@
 ![Vue.js 3](https://img.shields.io/badge/-Vue.js%203-color&?style=for-the-badge&color=informational&logo=Vue.js&logoColor=white)
 ![Google Apps Script](https://img.shields.io/badge/-Google%20Apps%20Script-color&?style=for-the-badge&color=informational&logo=Google%20Drive&logoColor=white)
 
-### Социальные сети
-
-[![e-mail](https://img.shields.io/badge/-email-color&?style=for-the-badge&color=informational&logo=LinkedIn)](mailto:sanekclubstr@mail.ru)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-color&?style=for-the-badge&color=0077b5&logo=LinkedIn)](https://www.linkedin.com/in/ivanov-aspirant)
-[![VK](https://img.shields.io/badge/-VK-color&?style=for-the-badge&color=45668e&logo=VK)](https://vk.com/xumukutyt)
-[![Facebook](https://img.shields.io/badge/-Facebook-color&?style=for-the-badge&color=3b5998&logo=Facebook&logoColor=white)](https://facebook.com/sanekclubstr)
-[![Instagram](https://img.shields.io/badge/-Instagram-color&?style=for-the-badge&color=E1306C&logo=Instagram&logoColor=white)](https://instagram.com/aspirantdrago/)
-
-
 
 ### Образование
-
-* **240100 Химическая технология**, УГНТУ
-<br />Бакалавриат
-<br />Профиль: *Химическая технология органических веществ*
-<br />Диплом с отличием – *2016 г.*
-
-* **01.04.02 Прикладная математика и информатика**, БашГУ
-<br />Магистратура
-<br />Профиль: *Математическое моделирование*
-<br />Диплом с отличием – *2018 г.*
 
 * **04.04.01 Химия**, БашГУ
 <br />Магистратура
 <br />Профиль: *Высокомолекулярные соединения*
-<br />Диплом с отличием – *2019 г.*
+<br />Диплом с отличием – *2017-2019*
+
+* **01.04.02 Прикладная математика и информатика**, БашГУ
+<br />Магистратура
+<br />Профиль: *Математическое моделирование*
+<br />Диплом с отличием – *2016-2018*
+
+* **240100 Химическая технология**, УГНТУ
+<br />Бакалавриат
+<br />Профиль: *Химическая технология органических веществ*
+<br />Диплом с отличием – *2012-2016*
 
 ### Опыт работы
 
@@ -104,6 +99,13 @@
 <br />Курсы для школьников 8-11-ых классов по изучению программирования на языке Python, а также стеку технологий WEB-разработки:
     * Основы программирования на языке Python
     * Основы промышленного программирования (PyQt, PyGame, Flask)
+
+
+### Научные достижения
+
+Автор порядка [100](https://elibrary.ru/author_items.asp?authorid=220682&show_option=1&show_refs=1) научных публикаций, в том числе [22](https://elibrary.ru/author_items.asp?authorid=220682&pubrole=100&show_refs=1&show_option=5) работы в
+журналах перечня ВАК, [1](https://www.scopus.com/authid/detail.url?authorId=57205470240) публикация Scopus, [1](https://www.researcherid.com/rid/M-5364-2014) публикация Web of Science. Индекс цитируемости РИНЦ [494](https://elibrary.ru/author_profile.asp?authorid=220682), индекс Хирша [13](https://elibrary.ru/author_profile.asp?authorid=220682).
+
 
 ### Повышения квалификаций
 
