@@ -11,8 +11,12 @@
 [![Facebook](https://img.shields.io/badge/-Facebook-color&?style=for-the-badge&color=3b5998&logo=Facebook&logoColor=white)](https://facebook.com/sanekclubstr)
 [![Instagram](https://img.shields.io/badge/-Instagram-color&?style=for-the-badge&color=E1306C&logo=Instagram&logoColor=white)](https://instagram.com/aspirantdrago/)
 
+### Статистика
 
-![](https://raw.githubusercontent.com/AspirantDrago/cf-stats/main/output/light_card.svg#gh-dark-mode-only)
+
+![](https://raw.githubusercontent.com/AspirantDrago/cf-stats/main/output/light_card.svg)
+
+
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AspirantDrago&show_icons=true&theme=dark&locale=ru&include_all_commits=true&count_private=true&hide=prs,issues,contribs)
 
@@ -101,11 +105,19 @@
     * Основы промышленного программирования (PyQt, PyGame, Flask)
 
 
-### Научные достижения
+### Достижения
 
 Автор порядка [100](https://elibrary.ru/author_items.asp?authorid=220682&show_option=1&show_refs=1) научных публикаций, в том числе [22](https://elibrary.ru/author_items.asp?authorid=220682&pubrole=100&show_refs=1&show_option=5) работы в
 журналах перечня ВАК, [1](https://www.scopus.com/authid/detail.url?authorId=57205470240) публикация Scopus, [1](https://www.researcherid.com/rid/M-5364-2014) публикация Web of Science. Индекс цитируемости РИНЦ [494](https://elibrary.ru/author_profile.asp?authorid=220682), индекс Хирша [13](https://elibrary.ru/author_profile.asp?authorid=220682).
 
+   * 18 место Направление Аналитика данных на чемпионате по программированию Яндекс
+   * 78 место Направление Машинное обучение на чемпионате по программированию Yandex Cup 20
+   * Призер RuCode Дивизион C-D
+   * Победа в специальной номинации в Хакатоне трех городов ИТ-марафона ПАО НК РОСНЕФТЬ
+   * Победа в хакатоне по большим данным BILET.HACK в номинации Приз симпатий заказчика
+   * Свидетельство о регистрации электронного ресурса Программное средство для моделиования электрического поля в среде с произвольным включением
+   * 62 место по России в конкурсе компании Oracle Программирование Java
+   * 16 место по России в конкурсе компании Oracle Программирование SQL
 
 ### Повышения квалификаций
 
